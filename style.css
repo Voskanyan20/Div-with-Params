@@ -1,0 +1,67 @@
+/* .kk{
+    color:red;
+} */
+.tree{
+    position: relative;
+    height: 700px;
+}
+.tree_{
+    position: absolute;
+    width: 530px;
+    top: 20px;
+    left: 27%;
+}
+.tr{
+    position: absolute;
+    width: 60px;
+    top: 218px;
+    left: 35%;
+    right: 1px;
+}
+.tr1{
+    position: absolute;
+    width: 60px;
+    top: 111px;
+    left: 35%;
+}
+.tr2{
+    position: absolute;
+    width: 60px;
+    top: 159px;
+    left: 43%;
+}
+.tr3{
+    position: absolute;
+    width: 60px;
+    top: 219px;
+    left: 51%;
+}
+.tr4{
+    position: absolute;
+    width: 60px;
+    top: 110px;
+    left: 51%;
+}
+.bottom{
+    z-index: 2;
+    width: 100%;
+    margin: 387px 0 0 0;
+}
+.button1{
+    position: absolute;
+    right: 120px;
+    top: 26%;
+    width: 120px;
+    height: 50px;
+    font-family: cursive;
+    background-color: aqua;
+}
+.button2{
+    position: absolute;
+    left: 75px;
+    top: 27%;
+    width: 120px;
+    height: 50px;
+    font-family: cursive;
+    background-color: aqua;
+}
